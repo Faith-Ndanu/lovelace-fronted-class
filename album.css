@@ -1,0 +1,30 @@
+.single-album-container{
+width: 30%;
+height: 30%;
+border: solid 1px rgb(287,205,205);
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 5px;
+border-radius: 5px;
+}
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.single-album-container img{
+width: 80%;
+}
+.single-album-container h3{
+    font-size: 16px;
+    text-align: center;
+    color: rgb(106, 104, 104);
+}
+
+
+
+
+
